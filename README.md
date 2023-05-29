@@ -55,8 +55,11 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+
+### Name:Tharika S
+### Register Number: 212222230159
+
+
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
