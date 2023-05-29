@@ -54,6 +54,7 @@
 
 ## Output:
 
+![Screenshot 2023-05-22 183810](https://github.com/tharikasankar/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119475507/78a888da-844f-4d9c-931c-56cf98ac677b)
 
 
 ### Name:Tharika S
